@@ -1,2 +1,3 @@
 Esto es una prueba de vim y git inicio.
 Veamos como nos va con nuestro primer commit.
+Jajaja este sera el segundo commit
